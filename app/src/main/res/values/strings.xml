@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="mt">Menú del texto</string>
+    <string name="mb">Menú del botón</string>
+    <string name="TextoP">Mantenga pulsando el botón</string>
+</resources>
